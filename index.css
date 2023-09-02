@@ -1,0 +1,113 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #1b1924;
+  color: #ffffff;
+  text-align: center;
+  user-select: none;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.main {
+  padding: 10px;
+  max-width: 320px;
+  margin: 30px auto;
+}
+
+img {
+  width: 150px;
+}
+
+h1,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 27px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+#textarea-el {
+  width: 280px;
+  height: 118px;
+  background: #444059;
+  color: #8f8f8f;
+  padding: 20px;
+  border: 0;
+  border-radius: 8px;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 11px;
+}
+
+input {
+  width: 150px;
+  height: 40px;
+  border: 0;
+  border-radius: 8px;
+  background: #444059;
+  color: #8f8f8f;
+  text-align: center;
+  margin: 10px 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+button {
+  background: #28a9f1;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 15px;
+  border: 0;
+  border-radius: 8px;
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+button:hover {
+  cursor: pointer;
+  background: #8f8f8f;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  width: 280px;
+  list-style: none;
+  background: white;
+  color: #1b1924;
+  text-align: left;
+  padding: 20px;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.review-text {
+  color: #444059;
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+.like-btn {
+  background: none;
+  padding: 0;
+  width: 30%;
+  text-align: right;
+}
+
+.like-btn:hover {
+  background: none;
+  cursor: pointer;
+}
