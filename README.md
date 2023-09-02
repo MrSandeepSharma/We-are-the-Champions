@@ -1,8 +1,6 @@
 # We are the Champions
 
-- <a href="https://add-to-cart-user.netlify.app/">Live Preview</a>
-
-- <a href="https://scrimba.com/scrim/caGkqRH9?pl=pMQBqbdhb">View Scrim</a>
+- <a href="https://wearethechamp.netlify.app/">Live Preview</a>
 
 ## Welcome! 👋
 
@@ -18,4 +16,5 @@ Thanks for viewing my project, this is `my another solo project` in my journey t
 
 ## Preview Image 🎆
 
-![demo](https://github.com/MrSandeepSharma/Add-to-Cart/assets/142038020/016d2389-e6ba-443f-a5f2-3ca575f8103a)
+  ![WhatsApp Image 2023-09-02 at 11 50 38 AM(1)](https://github.com/MrSandeepSharma/We-are-the-Champions/assets/142038020/d9ab6ca8-c630-4430-8b3a-52715e0115fd)
+
